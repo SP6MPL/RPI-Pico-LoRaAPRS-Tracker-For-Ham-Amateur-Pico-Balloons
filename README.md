@@ -18,6 +18,18 @@ The wiring diagram is provided below.
 
 ![SchematicV1](images/schV1.png)
 
+## APRS Comment Description
+
+* **P** – number of transmitted packets since startup.
+* **S** – number of GPS satellites.
+* **F** – currently selected transmit frequency:
+
+  * **F1** = **434.855 MHz**
+  * **F2** = **433.775 MHz**
+* **T** – CPU temperature.
+
+![APRS](images/aprs.png)
+  
 To build the project:
 
 1. Open the project in **Arduino IDE**.
@@ -27,10 +39,3 @@ To build the project:
 5. Copy the generated **UF2** file to your Raspberry Pi Pico.
 
 > **Note:** Transmitting on amateur radio bands requires a valid amateur radio operator licence and must comply with the radio regulations in your country.
-
-
-![SondeHub](images/sondehub.png)
-
-
-
-![APRS](images/aprs.png)
