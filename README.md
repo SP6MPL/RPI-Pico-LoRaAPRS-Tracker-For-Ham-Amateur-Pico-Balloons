@@ -27,3 +27,10 @@ To build the project:
 5. Copy the generated **UF2** file to your Raspberry Pi Pico.
 
 > **Note:** Transmitting on amateur radio bands requires a valid amateur radio operator licence and must comply with the radio regulations in your country.
+
+
+![SondeHub](images/sondehub.png)
+
+
+
+![APRS](images/aprs.png)
