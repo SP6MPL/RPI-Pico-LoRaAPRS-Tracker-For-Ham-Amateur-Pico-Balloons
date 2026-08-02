@@ -8,3 +8,5 @@ This project uses a **Raspberry Pi Pico** microcontroller, an **RFM98** LoRa tra
 A complete wiring diagram along with detailed build and compilation instructions will be added soon.
 
 **Note:** This project was developed with the assistance of artificial intelligence.
+![SondeHub](images/sondehub.png)
+![APRS](images/aprs.png)
